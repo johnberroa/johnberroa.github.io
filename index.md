@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to my personal corner of the Internet!
 
-You can use the [editor on GitHub](https://github.com/johnberroa/johnberroa.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm John, an American currently studying cognitive science at Universität Osnabrück in Germany.  My focus is on artificial intelligence and neuroinformatics, which basically means all I do all day is machine learning, coding, and math!  You might have some questions:
+- What am I currently working on? Check out [link](#projects)
+- Why am I studying such a field? See [here](#background)!
+- Why Germany? Look [here](#germany)
+- Can I see your resume/CV? Sure! Here's the [link](#makethisanotherpage)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### <a name="background"></a>My Background
+I received my bachelors in psychology with a minor in behavioral neuroscience at Stockton University in 2014.  My goal was to go into neuroscience research, with the explicity research direction of applying neural insights to artificial intelligence.  After a round of PhD interviews, it turns out that most people focus their research on the other way around (i.e. machine learning $\to$ neuroscience research).  So I decided to go directly to machine learning and data science, but with a degree in psychology a direct transfer isn't a realistic expectation.  My best option was to study cognitive science...which turns out to be exactly the field that I wanted to do research in in the first place!  Funny how things work out, eh?
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
+### <a name="germany"></a>Studying in Germany
+Germany is quite an interesting place to study.  There's a very large international component to any English language program, and you make friends from all across the globe.  The Germans don't really do the "liberal arts" degree that is so popular in the States; that means that if you study physics, all you do is physics.  So for me, someone coming from psychology, it is perfect to completely focus on an almost entirely new topic in order to learn everything possible within the time of my program.  Plus, one doesn't have to worry about massive student loans---all you pay (at least at public institutions) is the semester fee, which is just a couple hundred euros.  
 [Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/johnberroa/johnberroa.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
