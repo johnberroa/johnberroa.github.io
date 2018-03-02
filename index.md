@@ -1,4 +1,5 @@
-![Picture of me ice skating]({{ site.baseurl }}/imgs/ice.jpg =200x100)
+<!---![Picture of me ice skating]({{ site.baseurl }}/imgs/ice.jpg =200x100)-->
+<img src="/imgs/ice.jpg" alt="Picture of me ice skating" width="625" height="372">
 
 ## Welcome to my personal corner of the Internet!
 
