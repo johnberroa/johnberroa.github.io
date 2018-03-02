@@ -4,7 +4,7 @@ I'm John, an American masters student currently studying cognitive science at Un
 - What am I currently working on? Check out [link](#projects)!
 - Why am I studying such a field? See [here](#background).
 - Why Germany? Look [here](#germany)!
-- Can I see your resume/CV? Sure! Here's the [US CV]({{ site.baseurl }}/cvs/US-CV.pdf), and the [German CV]({{ site.baseurl }}//cvs/DE-CV.pdf)(with a picture essentially). Note: there are currently different layouts because I am testing various styles.
+- Can I see your resume/CV? Sure! Here's the [link](#makethisanotherpage).
 
 ### <a name="background"></a>My Background
 I received my bachelors in psychology with a minor in behavioral neuroscience at Stockton University in 2014.  My goal was to go into neuroscience research, with the explicit research direction of applying neural insights to artificial intelligence.  After a round of PhD interviews, it turns out that most people focus their research the other way around (i.e. machine learning -> neuroscience research).  So I decided to go directly into machine learning and data science.  However, with a degree in psychology a direct transfer isn't a realistic expectation.  My best option was to study cognitive science...which turns out to be exactly the field that I wanted to do research in in the first place!  Funny how things work out, eh?
