@@ -3,5 +3,5 @@ title: John J. Berroa
 email: johnberroa@gmail.com
 author: John Berroa
 description: A website detailing my projects and journey through the world of data science and neural inspired algorithms.
-show_downloads: true
+show_downloads: false
 baseurl: /johnberroa.github.io
