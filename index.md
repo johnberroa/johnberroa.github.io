@@ -1,4 +1,4 @@
-![Picture of me ice skating]({{ site.baseurl }}/imgs/ice.jpg)
+![Picture of me ice skating]({{ site.baseurl }}/imgs/ice.jpg =200x100)
 
 ## Welcome to my personal corner of the Internet!
 
@@ -27,6 +27,8 @@ Since this is a website geared towards me, I figure a short biographical section
 I grew up in New Jersey.  Contrary to popular belief, it's actually a very nice state.  Whatever your interests are, you can follow them.  For example, if you want to live the city life, live in the northeastern part near NYC.  If you want a calm, rural life, live in the southern part.  If you want to be a surfer dude, live on LBI.  I myself took the pilot route, and got a private pilot's license essentially the same time I got my driver's license.  You could call flying one of my passions.  Maybe one day I'll be able to merge data science and flying together...that'd be pretty cool :grin:!  
 
 What also interests me is languages, specifically the acquisition and similarities between them.  I'm currently around B2 level in German.  Feel free to check out my German page and correct any mistakes!
+
+Lastly, I'm quite fond of participating in hackathons.  Check out my experiences [here](hackathons.md).
 
 ### <a name="background"></a>My Background
 I received my bachelors in psychology with a minor in behavioral neuroscience at Stockton University in 2014.  My goal was to go into neuroscience research, with the explicit research direction of applying neural insights to artificial intelligence.  After a round of PhD interviews, it turns out that most people focus their research the other way around (i.e. machine learning -> neuroscience research).  So I decided to go directly into machine learning and data science.  However, with a degree in psychology a direct transfer isn't a realistic expectation.  My best option was to study cognitive science...which turns out to be exactly the field that I wanted to do research in in the first place!  Funny how things work out, eh?
