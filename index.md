@@ -1,7 +1,7 @@
 ## Welcome to my personal corner of the Internet!
 
 I'm John, an American masters student currently studying cognitive science at Universität Osnabrück in Germany.  My focus is on artificial intelligence and neuroinformatics, which basically means all I do everyday is machine learning, coding, and math!  You might have some questions:
-- What am I currently working on? Check out this [link](_pages/projects.md)!
+- What am I currently working on? Check out this [link](projects.md)!
 - Why am I studying such a field? See [here](#background).
 - Why Germany? Look [here](#germany)!
 - Can I see your resume/CV? Sure! Here's the [US CV]({{ site.baseurl }}/cvs/US-CV.pdf), and the [German CV]({{ site.baseurl }}//cvs/DE-CV.pdf)[1]. Note: there are currently different layouts because I am testing various styles.
