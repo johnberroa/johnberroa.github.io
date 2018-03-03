@@ -35,8 +35,6 @@ Was auch interessiert mich ist Sprachen, genauer gesagt die Erwerb von Sprachen 
 
 Letztendlich, ich mache gerne Hackathons mit.  Schaul mal auf meinen Erfahrungen [hier]({{ site.baseurl }}/de/hackathons_de.html).
 
-**WORK IN PROGRESS**
-
 ### <a name="background"></a>Mein Hintergrund
 Ich bekam 2014 den Bachelor in Psychologie mit dem Nebenfach in Verhaltensneurowissenschaften an der Stockton University.  Mein Ziel war es in die Neurowissenschaftsforschung zu gehen, mit dem explizitem Zweck neuronale Erkenntnisse auf künstlichen Intelligenz anwenden.  Nach einigen PhD Interviews, stellte ich fest, dass die meiste Forschung sich in eine andere Richtung entwickelt (z.B. maschinelles Lernen -> neurowissenschaftliche Forschung).  Deshalb entschied ich direkt in die Richtung maschinelles Lernen und Data Science zu wechseln.  Allerdings wäre ein kompletter Wechsel mit einem Abschluss in der Psychologie  nicht realistisch.  Meine beste Alternative war Kognitionswissenschaft zu studieren...was sich als das herausstelte, was ich  eigentlich machen wollte!  Lustig oder?
 
