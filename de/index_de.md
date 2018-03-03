@@ -29,7 +29,7 @@ Ich bin John, ein amerikanische Masters Student, und derzeit studiere ich Kognit
 Da diese Website ist über mich, ich denke einen kurzen biografischen Abschnitt ist in Ordnung.  Ich werde ein bisschen generell weil die Teilen bezüglich meinen Hintergrund und Studium sind schon ausreichend erklärt.
 
 Ich bin in New Jersey aufgewachsen.  Im Gegensatz zur berühmten Meinungen, New Jersey ist ein schönes Bundesland.
-Zum Beispiel, falls man das Stadtleben leben möchtet, kann man neben NYC wohnen.  Falls man ein friedliches, ländliches Leben haben, kann man im südlichen Teil des Staates wohnen.  Und auch wenn man ein "surfer dude" sein wolltest, kann man an der LBI wohnen.  Ich nahm die "Pilotroute," und bekommte einen Flugschein fast gleichzeitig mit einen Führerschein.  Ich könnte sagen, dass zu mir, Fliegen eine Leidenschaft ist.  Vielleicht werde ich eines Tages "data science" und Fliegen zusammenbringen...das wäre cool :grin:!
+Zum Beispiel, falls man das Stadtleben leben möchte, kann man neben NYC wohnen.  Falls man ein friedliches, ländliches Leben haben will, kann man im südlichen Teil des Staates wohnen.  Und auch wenn man ein "surfer dude" sein wünscht, kann man an der LBI wohnen.  Ich nahm die "Pilotroute," und bekommte einen Flugschein fast gleichzeitig mit einen Führerschein.  Ich könnte sagen, dass zu mir, Fliegen eine Leidenschaft ist.  Vielleicht werde ich eines Tages "data science" und Fliegen zusammenbringen...das wäre cool :grin:!
 
 Was auch interessiert mich ist Sprachen, genauer gesagt die Erwerb von Sprachen und die Ähnlichkeiten zwischen ihnen.  Mein Deutsch ist ungefähr B2.  Bitte korrigiere irgendeine Fehler!
 
