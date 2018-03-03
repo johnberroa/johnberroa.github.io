@@ -3,12 +3,11 @@
 
 ## Willkommen in meiner persönlichen Ecke des Internets!
 
-Ich bin John, ein amerikanische masters Student, und derzeit studiere ich Kognitionswissenschaft an der Universität Osnabrück.  Mein Fokus liegt auf künstlicher Intelligenz und Neuroinformatik, das heißt, alles was ich mache jeden Tag ist maschinelles lernen, programmieren, und Mathe!  Du hast vielleicht Fragen:
-- Was mache ich jetzt als Projekte? Klicke auf den [Link](projects_de.md)!
+Ich bin John, ein amerikanische Masters Student, und derzeit studiere ich Kognitionswissenschaft an der Universität Osnabrück.  Mein Fokus liegt auf künstlicher Intelligenz und Neuroinformatik, das heißt, alles was ich mache jeden Tag ist maschinelles lernen, programmieren, und Mathe!  Du hast vielleicht Fragen:
+- Was mache ich jetzt als Projekte? Klicke auf den [Link]({{ site.baseurl }}/de/projects_de.md)!
 - Warum studiere ich die? Schaul mal [hier](#background).
 - Warum Deustchland? Hier ist die [Antwort](#germany)!
-- Möchtest du meinen Lebenslauf sehen? Klar, hier ist der [deustche Lebenslauf](({{ site.baseurl }}//cvs/DE-CV.pdf), und der [amerikanische Lebenslauf](({{ site.baseurl }}/cvs/US-CV.pdf))[1]. Hinweis: es gibt zwei Aufmachungen weil ich etwas neues probiere.  Hinweis: leider gibt es derzeit keine deutsche Übersetzung.
-
+- Möchtest du meinen Lebenslauf sehen? Klar, hier ist der [deustche Lebenslauf]({{ site.baseurl }}//cvs/DE-CV.pdf), und der [amerikanische Lebenslauf]({{ site.baseurl }}/cvs/US-CV.pdf))[1]. Hinweis: es gibt zwei Aufmachungen weil ich etwas neues probiere.  Hinweis: leider gibt es derzeit keine deutsche Übersetzung.
 
 <body>
   <div class="index-wrapper">
@@ -23,6 +22,9 @@ Ich bin John, ein amerikanische masters Student, und derzeit studiere ich Kognit
     </div>
   </div>
 </body>
+
+<img src="https://www.emojibase.com/resources/img/emojis/apple/x1f1fa-1f1f8.png.pagespeed.ic.R63_4E5mnM.webp" alt="US Flag" width="20" height="20"> Take a look at my [English website]({{ site.baseurl }}index.md)!
+
 ### Über mich
 Da diese Website ist über mich, ich denke einen kurzen biografischen Abschnitt ist in Ordnung.  Ich werde ein bisschen generell weil die Teilen bezüglich meinen Hintergrund und Studium sind schon ausreichend erklärt.
 
@@ -31,7 +33,7 @@ Zum Beispiel, falls man das Stadtleben leben möchtet, kann man neben NYC wohnen
 
 Was auch interessiert mich ist Sprachen, genauer gesagt die Erwerb von Sprachen und die Ähnlichkeiten zwischen ihnen.  Mein Deutsch ist ungefähr B2.  Bitte korrigiere irgendeine Fehler!
 
-Letztendlich, ich mache gerne Hackathons mit.  Schaul mal auf meinen Erfahrungen [hier](hackathons_de.md)
+Letztendlich, ich mache gerne Hackathons mit.  Schaul mal auf meinen Erfahrungen [hier]({{ site.baseurl }}/de/hackathons_de.md)
 
 **WORK IN PROGRESS**
 
