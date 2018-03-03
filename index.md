@@ -24,6 +24,7 @@ I'm John, an American masters student currently studying cognitive science at Un
     </div>
   </div>
 </body>
+
 ### About Me
 Since this is a website geared towards me, I figure a short biographical section is in order.  I'll be a bit general since the sections on my background and studying in Germany go into sufficient detail about those things.
 

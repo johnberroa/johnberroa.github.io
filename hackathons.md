@@ -2,7 +2,7 @@
 I've participated in a few hackathons.  Below are recollections of the events.  Listed in reverse chronological order.
 
 ### Hack4Health
-Placed second with a chatbot named *Mercura*.  The idea was simple: we only know about how we feel ourselves, but doctors see many patients a day and have a good idea whether or not the cough you have right now is serious.  So through Mercura, we connect patients to the doctor's knowledge.  Throw in some diease prediction based on symptom counts in cities, and the doctors also have an extra source of information to make diagnoses.
+Placed second with a chatbot named *Mercura*.  The idea was simple: we only know about how we feel ourselves, but doctors see many patients a day and have a good idea whether or not the cough you have right now is serious.  So through Mercura, we connect patients to the doctor's knowledge.  Throw in some disease prediction based on symptom counts in cities, and the doctors also have an extra source of information to make diagnoses.
 <img src="/imgs/Hack4Health.JPG" alt="Hack4Health" width="650" height="488">
 <!---![Hack4Health]({{ site.baseurl }}/imgs/Hack4Health.jpg =100x20)-->
 
