@@ -5,9 +5,9 @@
 
 Ich bin John, ein amerikanische Masters Student, und derzeit studiere ich Kognitionswissenschaft an der Universität Osnabrück.  Mein Fokus liegt auf künstlicher Intelligenz und Neuroinformatik, das heißt, alles was ich mache jeden Tag ist maschinelles lernen, programmieren, und Mathe!  Du hast vielleicht Fragen:
 - Was mache ich jetzt als Projekte? Klicke auf den [Link]({{ site.baseurl }}/de/projects_de.html)!
-- Warum studiere ich die? Schaul mal [hier](#background).
+- Warum studiere ich die? Schau mal [hier](#background).
 - Warum Deutschland? Hier ist die [Antwort](#germany)!
-- Möchtest du meinen Lebenslauf sehen? Klar, hier ist der [deutsche Lebenslauf]({{ site.baseurl }}/cvs/DE-CV.pdf), und der [amerikanische Lebenslauf]({{ site.baseurl }}/cvs/US-CV.pdf))[1]. Hinweis: es gibt zwei Aufmachungen weil ich etwas neues probiere.  Hinweis: leider gibt es derzeit keine deutsche Übersetzung.
+- Möchtest du meinen Lebenslauf sehen? Klar, hier ist der [deutsche Lebenslauf]({{ site.baseurl }}/cvs/DE-CV.pdf), und der [amerikanische Lebenslauf]({{ site.baseurl }}/cvs/US-CV.pdf)[1]. Hinweis: es gibt zwei Aufmachungen weil ich etwas neues probiere.  Hinweis: leider gibt es derzeit keine deutsche Übersetzung.
 
 <img src="https://www.emojibase.com/resources/img/emojis/apple/x1f1fa-1f1f8.png.pagespeed.ic.R63_4E5mnM.webp" alt="US Flag" width="20" height="20"> Take a look at my [English website]({{ site.baseurl }})!
 
@@ -26,10 +26,10 @@ Ich bin John, ein amerikanische Masters Student, und derzeit studiere ich Kognit
 </body>
 
 ### Über mich
-Da diese Website ist über mich, ich denke einen kurzen biografischen Abschnitt ist in Ordnung.  Ich werde ein bisschen generell weil die Teilen bezüglich meinen Hintergrund und Studium sind schon ausreichend erklärt.
+Da diese Website ist über mich, denke ich einen kurzen biografischen Abschnitt ist in Ordnung.  Ich werde ein bisschen generell weil die Teilen bezüglich meinen Hintergrund und Studium sind schon ausreichend erklärt.
 
 Ich bin in New Jersey aufgewachsen.  Im Gegensatz zur berühmten Meinungen, New Jersey ist ein schönes Bundesland.
-Zum Beispiel, falls man das Stadtleben leben möchte, kann man neben NYC wohnen.  Falls man ein friedliches, ländliches Leben haben will, kann man im südlichen Teil des Staates wohnen.  Und auch wenn man ein "surfer dude" sein wünscht, kann man an der LBI wohnen.  Ich nahm die "Pilotroute," und bekommte einen Flugschein fast gleichzeitig mit einen Führerschein.  Ich könnte sagen, dass zu mir, Fliegen eine Leidenschaft ist.  Vielleicht werde ich eines Tages "data science" und Fliegen zusammenbringen...das wäre cool :grin:!
+Zum Beispiel, falls man das Stadtleben leben möchte, kann man neben NYC wohnen.  Falls man ein friedliches, ländliches Leben haben will, kann man im südlichen Teil des Staates wohnen.  Und auch wenn man ein "surfer dude" sein wünscht, kann man an der LBI wohnen.  Ich nahm die "Pilotroute," und bekommte einen Flugschein fast gleichzeitig mit einem Führerschein.  Ich könnte sagen, dass zu mir, Fliegen eine Leidenschaft ist.  Vielleicht werde ich eines Tages "data science" und Fliegen zusammenbringen...das wäre cool :grin:!
 
 Was auch interessiert mich ist Sprachen, genauer gesagt die Erwerb von Sprachen und die Ähnlichkeiten zwischen ihnen.  Mein Deutsch ist ungefähr B2.  Bitte korrigiere irgendeine Fehler!
 
