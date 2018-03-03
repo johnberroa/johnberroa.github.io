@@ -7,3 +7,5 @@ Below is a list, a short description, and links if available, of my current proj
 
 - [P] [Perceptrons](https://github.com/johnberroa/Perceptrons): I'm currently creating my own implementations of perceptrons with the explicit focus of trying to understand how they work with clean code.  This includes an MLP (feedforward neural network) implementation which should be able to take in any vector of input and train on it at fairly good speeds (due to the matrix design).
 
+
+[Back]({{ site.baseurl }})

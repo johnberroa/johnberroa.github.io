@@ -14,4 +14,4 @@ Unter ist eine Reihe, kurze Beschreibung, und wenn verfügbar Links, meinen aktu
 
 
 <!---I'm currently creating my own implementations of perceptrons with the explicit focus of trying to understand how they work with clean code.  This includes an MLP (feedforward neural network) implementation which should be able to take in any vector of input and train on it at fairly good speeds (due to the matrix design).-->
-
+[Zurück]({{ site.baseurl }}/de/index_de.html)

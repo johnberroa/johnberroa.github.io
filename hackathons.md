@@ -15,3 +15,6 @@ Placed first with a two-pronged project.  The first part was prediction of bus d
 First hackathon I went to.  It was fintech themed, and took place in Frankfurt.  Since Germany is mainly still a "cash is king" country, we decided to use machine learning to try and predict where people spend their cash, so that they don't have to manually input it into budgeting apps.  The idea developed into an entire budgeting app on its own, called CashFlo.
 <img src="/imgs/Collabothon.jpg" alt="Collabothon" width="650" height="365">
 <!---![Collabothon]({{ site.baseurl }}/imgs/Collabothon.jpg =100x20)-->
+
+
+[Back]({{ site.baseurl }})
