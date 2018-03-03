@@ -6,10 +6,10 @@
 Ich bin John, ein amerikanische Masters Student, und derzeit studiere ich Kognitionswissenschaft an der Universität Osnabrück.  Mein Fokus liegt auf künstlicher Intelligenz und Neuroinformatik, das heißt, alles was ich mache jeden Tag ist maschinelles lernen, programmieren, und Mathe!  Du hast vielleicht Fragen:
 - Was mache ich jetzt als Projekte? Klicke auf den [Link]({{ site.baseurl }}/de/projects_de.html)!
 - Warum studiere ich die? Schaul mal [hier](#background).
-- Warum Deustchland? Hier ist die [Antwort](#germany)!
-- Möchtest du meinen Lebenslauf sehen? Klar, hier ist der [deustche Lebenslauf]({{ site.baseurl }}//cvs/DE-CV.pdf), und der [amerikanische Lebenslauf]({{ site.baseurl }}/cvs/US-CV.pdf))[1]. Hinweis: es gibt zwei Aufmachungen weil ich etwas neues probiere.  Hinweis: leider gibt es derzeit keine deutsche Übersetzung.
+- Warum Deutschland? Hier ist die [Antwort](#germany)!
+- Möchtest du meinen Lebenslauf sehen? Klar, hier ist der [deutsche Lebenslauf]({{ site.baseurl }}/cvs/DE-CV.pdf), und der [amerikanische Lebenslauf]({{ site.baseurl }}/cvs/US-CV.pdf))[1]. Hinweis: es gibt zwei Aufmachungen weil ich etwas neues probiere.  Hinweis: leider gibt es derzeit keine deutsche Übersetzung.
 
-<img src="https://www.emojibase.com/resources/img/emojis/apple/x1f1fa-1f1f8.png.pagespeed.ic.R63_4E5mnM.webp" alt="US Flag" width="20" height="20"> Take a look at my [English website]({{ site.baseurl }}index.md)!
+<img src="https://www.emojibase.com/resources/img/emojis/apple/x1f1fa-1f1f8.png.pagespeed.ic.R63_4E5mnM.webp" alt="US Flag" width="20" height="20"> Take a look at my [English website]({{ site.baseurl }})!
 
 <body>
   <div class="index-wrapper">
@@ -33,7 +33,7 @@ Zum Beispiel, falls man das Stadtleben leben möchte, kann man neben NYC wohnen.
 
 Was auch interessiert mich ist Sprachen, genauer gesagt die Erwerb von Sprachen und die Ähnlichkeiten zwischen ihnen.  Mein Deutsch ist ungefähr B2.  Bitte korrigiere irgendeine Fehler!
 
-Letztendlich, ich mache gerne Hackathons mit.  Schaul mal auf meinen Erfahrungen [hier]({{ site.baseurl }}/de/hackathons_de.html)
+Letztendlich, ich mache gerne Hackathons mit.  Schaul mal auf meinen Erfahrungen [hier]({{ site.baseurl }}/de/hackathons_de.html).
 
 **WORK IN PROGRESS**
 

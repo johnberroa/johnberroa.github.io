@@ -7,7 +7,7 @@ I'm John, an American masters student currently studying cognitive science at Un
 - What am I currently working on? Check out this [link](projects.md)!
 - Why am I studying such a field? See [here](#background).
 - Why Germany? Look [here](#germany)!
-- Can I see your resume/CV? Sure! Here's the [US CV]({{ site.baseurl }}/cvs/US-CV.pdf), and the [German CV]({{ site.baseurl }}//cvs/DE-CV.pdf)[1]. Note: there are currently different layouts because I am testing various styles.
+- Can I see your resume/CV? Sure! Here's the [US CV]({{ site.baseurl }}/cvs/US-CV.pdf), and the [German CV]({{ site.baseurl }}/cvs/DE-CV.pdf)[1]. Note: there are currently different layouts because I am testing various styles.
 
 <img src="https://www.emojibase.com/resources/img/emojis/apple/x1f1e9-1f1ea.png.pagespeed.ic.28ILUmFUmf.webp" alt="German Flag" width="20" height="20"> Schau dir meine [deutsche Seite an]({{ site.baseurl }}/de/index_de.html)!
 
