@@ -28,7 +28,7 @@ I'm John, an American masters student currently studying cognitive science at Un
 ### About Me
 Since this is a website geared towards me, I figure a short biographical section is in order.  I'll be a bit general since the sections on my background and studying in Germany go into sufficient detail about those things.
 
-I grew up in New Jersey.  Contrary to popular belief, it's actually a very nice state.  Whatever your interests are, you can follow them.  For example, if you want to live the city life, live in the northeastern part near NYC.  If you want a calm, rural life, live in the southern part.  If you want to be a surfer dude, live on LBI.  I myself took the pilot route, and got a private pilot's license essentially the same time I got my driver's license.  You could call flying one of my passions.  Maybe one day I'll be able to merge data science and flying together...that'd be pretty cool! :grin:  
+I grew up in New Jersey.  Contrary to popular belief, it's actually a very nice state.  Whatever your interests are, you can follow them.  For example, if you want to live the city life, live in the northeastern part near NYC.  If you want a calm, rural life, live in the southern part.  If you want to be a surfer dude, live on LBI.  I myself took the pilot route, and got a private pilot's license essentially the same time I got my driver's license.  You could call flying one of my [passions](flying.md).  Maybe one day I'll be able to merge data science and flying together...that'd be pretty cool! :grin:  
 
 What also interests me is languages, specifically the acquisition and similarities between them.  I'm currently around B2 level in German.  Feel free to check out my German page and correct any mistakes!
 
