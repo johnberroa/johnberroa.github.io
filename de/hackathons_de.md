@@ -2,7 +2,7 @@
 Ich habe an einigen Hackathons teilgenommen.  Unter sind Erinnerungen diesen Events.  Sie sind in umgekehrter chronologischer Reihe aufgeführt.
 
 ### Hack4Health
-Wir haben den zweiten zweiten Platz gewonnen mit einem Chatbot genannt *Mercura*.  Die Idee war einfach: wir wissen nur, was in unseren Leben und Gesundheit passiert ist, aber Ärtze, die so viele Patienten jeden Tag sehen, eine gute Idee dem Zustand der Stadt wissen, und deshalb ob den Husten den man hat gravierend ist oder nicht wissen kann.  Durch Mercura können wir zu diesem Wissen verbunden.  Auch mit maschinelles Lernen, das mit Symptom Zahl den Städte Krankheit vorhersagen kann, können die Ärtze eine weitere Quelle Diagnosen zu machen.
+Wir haben den zweiten zweiten Platz gewonnen mit einem Chatbot genannt *Mercura*.  Die Idee war einfach: wir wissen nur, was in unseren Leben und Gesundheit passiert, aber Ärtze, die jeden Tag so viele Patienten sehen, haben eine gute Idee ob der Husten den man hat gravierend ist oder nicht.  Durch Mercura können wir zu diesem Wissen verbunden.  Auch mit maschinelles Lernen, das mit Symptom Zahl den Städte Krankheit vorhersagen kann, können die Ärtze eine weitere Quelle Diagnosen zu machen.
 
 
 <!---Placed second with a chatbot named *Mercura*.  The idea was simple: we only know about how we feel ourselves, but doctors see many patients a day and have a good idea whether or not the cough you have right now is serious.  So through Mercura, we connect patients to the doctor's knowledge.  Throw in some diease prediction based on symptom counts in cities, and the doctors also have an extra source of information to make diagnoses.-->
