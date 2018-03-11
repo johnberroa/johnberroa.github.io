@@ -42,3 +42,13 @@ Germany is quite an interesting place to study.  There's a very large internatio
 
 
 [1]The only difference is that the German CV contains a picture, and no translations of the German words :smile:
+
+
+*TEST*
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
