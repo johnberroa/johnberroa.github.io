@@ -25,6 +25,9 @@ Ich bin John, ein amerikanische Masters Student, und derzeit studiere ich Kognit
   </div>
 </body>
 
+### Was ist Neu?
+Ich bin derzeit ein Data Scientist bei der Agile-IT Management, ein Startup in Hannover/Osnabrück.  Mein Fokus liegt primär auf Zeitserien Analyse und Vorhersagen.  Mehr spezifisch, die Projekte die ich arbeite auf, sind im Bereich "predictive logistics".
+
 ### Über mich
 Da diese Website ist über mich, denke ich einen kurzen biografischen Abschnitt ist in Ordnung.  Ich werde ein bisschen generell weil die Teilen bezüglich meinen Hintergrund und Studium sind schon ausreichend erklärt.
 
