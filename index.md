@@ -25,6 +25,9 @@ I'm John, an American masters student currently studying cognitive science at Un
   </div>
 </body>
 
+### Current Happenings
+I am currently a data scientist at Agile-IT Management, a startup in Hannover/Osnabrück.  My focus areas mainly lie in time series analysis and prediction.  More specifically, the projects I work on involve predictive logistics.
+
 ### About Me
 Since this is a website geared towards me, I figure a short biographical section is in order.  I'll be a bit general since the sections on my background and studying in Germany go into sufficient detail about those things.
 
