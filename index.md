@@ -11,20 +11,6 @@ I'm John, an American masters student currently studying cognitive science at Un
 
 <img src="https://www.emojibase.com/resources/img/emojis/apple/x1f1e9-1f1ea.png.pagespeed.ic.28ILUmFUmf.webp" alt="German Flag" width="20" height="20"> Schau dir meine [deutsche Seite an]({{ site.baseurl }}/de/index_de.html)!
 
-<body>
-  <div class="index-wrapper">
-    <div class="aside">
-      <div class="info-card">
-        <h3>Social</h3>
-        <a href="https://www.linkedin.com/in/johnberroa/" target="_blank"><img src="https://cedcn.org/wp-content/themes/cedcn/images/icon-linkedin.svg" alt="" width="25"/></a>
-        <a href="https://github.com/johnberroa/" target="_blank"><img src="https://www.freefavicon.com/freefavicons/icons/github-152-289345.png" alt="" width="22"/></a>
-        <a href="https://www.instagram.com/mygermanreise/" target="_blank"><img src="https://instagram-brand.com/wp-content/uploads/2016/11/app-icon2.png" alt="" width="22"/></a>
-      </div>
-      <div id="particles-js"></div>
-    </div>
-  </div>
-</body>
-
 ### Current Happenings
 I am currently a data scientist at Agile-IT Management, a startup in Hannover/Osnabrück.  My focus areas mainly lie in time series analysis and prediction.  More specifically, the projects I work on involve predictive logistics.
 
@@ -42,6 +28,20 @@ I received my bachelors in psychology with a minor in behavioral neuroscience at
 
 ### <a name="germany"></a>Studying in Germany
 Germany is quite an interesting place to study.  There's a very large international component to any English language program, and you make friends from all across the globe.  The Germans don't really do the "liberal arts" degree that is so popular in the States; that means that if you study physics, all you do is physics.  So for me, someone coming from psychology, it is the perfect setup to completely focus on an almost entirely new topic in order to learn everything possible within the time of my program.  Plus, one doesn't have to worry about massive student loans---all you pay (at least at public institutions) is the semester fee, which is just a couple hundred euros.  
+
+<body>
+  <div class="index-wrapper">
+    <div class="aside">
+      <div class="info-card">
+        <h3>Social</h3>
+        <a href="https://www.linkedin.com/in/johnberroa/" target="_blank"><img src="https://cedcn.org/wp-content/themes/cedcn/images/icon-linkedin.svg" alt="" width="25"/></a>
+        <a href="https://github.com/johnberroa/" target="_blank"><img src="https://www.freefavicon.com/freefavicons/icons/github-152-289345.png" alt="" width="22"/></a>
+        <a href="https://www.instagram.com/mygermanreise/" target="_blank"><img src="https://instagram-brand.com/wp-content/uploads/2016/11/app-icon2.png" alt="" width="22"/></a>
+      </div>
+      <div id="particles-js"></div>
+    </div>
+  </div>
+</body>
 
 
 [1]The only difference is that the German CV contains a picture, and no translations of the German words :smile:
