@@ -11,20 +11,6 @@ Ich bin John, ein amerikanische Masters Student, und derzeit studiere ich Kognit
 
 <img src="https://www.emojibase.com/resources/img/emojis/apple/x1f1fa-1f1f8.png.pagespeed.ic.R63_4E5mnM.webp" alt="US Flag" width="20" height="20"> Take a look at my [English website]({{ site.baseurl }})!
 
-<body>
-  <div class="index-wrapper">
-    <div class="aside">
-      <div class="info-card">
-        <h3>Sozial</h3>
-        <a href="https://www.linkedin.com/in/johnberroa/" target="_blank"><img src="https://cedcn.org/wp-content/themes/cedcn/images/icon-linkedin.svg" alt="" width="25"/></a>
-        <a href="https://github.com/johnberroa/" target="_blank"><img src="https://www.freefavicon.com/freefavicons/icons/github-152-289345.png" alt="" width="22"/></a>
-        <a href="https://www.instagram.com/mygermanreise/" target="_blank"><img src="https://instagram-brand.com/wp-content/uploads/2016/11/app-icon2.png" alt="" width="22"/></a>
-      </div>
-      <div id="particles-js"></div>
-    </div>
-  </div>
-</body>
-
 ### Was ist Neu?
 Ich bin derzeit ein Data Scientist bei der Agile-IT Management, ein Startup in Hannover/Osnabrück.  Mein Fokus liegt primär auf Zeitserien Analyse und Vorhersagen.  Mehr spezifisch, die Projekte die ich arbeite auf, sind im Bereich "predictive logistics".
 
@@ -43,6 +29,20 @@ Ich bekam 2014 den Bachelor in Psychologie mit dem Nebenfach in Verhaltensneurow
 
 ### <a name="germany"></a>Studium in Deutschland
 Deutschland ist ein ziemlich interessanter Ort zum Studieren.  Eine riesen große Komponente in jedem englischsprachigem Studium sind die internationale Studenten. Deswegen kann man sich mit Menschen von allen Ecke der Welt anfreunden.  Die Deutschen haben fast keine "liberal arts" Studium, die so populär in den Vereinigten Staaten sind. Das heißt, dass wenn man Physik studieren will, macht man nur Physik.  Also für mich, jemand der aus der Psychologie kommt, ist es die perfekte Vorrausetzung mich komplett auf einem fast neuem Inhalt zu fokussieren, um alles mögliche in der Zeit des Programms zu lernen.  Und man muss sich nicht über riesen Studentenanleihen Sorgen machen---alles was man bezahlen muss (zumindest an den öffentliche Unviersitäten), ist nur der Semesterbeitrag, was nur ein paar hundert Euro ist.
+
+<body>
+  <div class="index-wrapper">
+    <div class="aside">
+      <div class="info-card">
+        <h3>Sozial</h3>
+        <a href="https://www.linkedin.com/in/johnberroa/" target="_blank"><img src="https://cedcn.org/wp-content/themes/cedcn/images/icon-linkedin.svg" alt="" width="25"/></a>
+        <a href="https://github.com/johnberroa/" target="_blank"><img src="https://www.freefavicon.com/freefavicons/icons/github-152-289345.png" alt="" width="22"/></a>
+        <a href="https://www.instagram.com/mygermanreise/" target="_blank"><img src="https://instagram-brand.com/wp-content/uploads/2016/11/app-icon2.png" alt="" width="22"/></a>
+      </div>
+      <div id="particles-js"></div>
+    </div>
+  </div>
+</body>
 
 
 [1] Der einzige Unterschied zwischen den Lebensläufen ist dass der deutschen Lebenslauf ein Bild enhält, und keine deutsche Übersetzungen :smile:
