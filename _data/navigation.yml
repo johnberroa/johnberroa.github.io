@@ -1,11 +1,11 @@
 # Site navigation links
 
 - title: Background
-  url: background.md
+  url: /background.md
   excerpt: "About me"
   image:
 
 - title: Curriculum Vitae
-  url: cvs/US-CV.pdf
+  url: /cvs/US-CV.pdf
   excerpt: "My CV"
   image:
