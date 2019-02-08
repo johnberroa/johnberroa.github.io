@@ -6,10 +6,12 @@ logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
 baseurl: #/johnberroa.github.io
+github_url: https://github.com/johnberroa
 feed:
   path: atom.xml
 
 # Jekyll configuration
+markdown: kramdown
 
 sass:
   sass_dir: _sass
